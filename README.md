@@ -1,4 +1,4 @@
-### 👋 Bonjour, je suis [Christoph Moquin]
+### 👋 Bonjour, je suis Christoph Moquin
 
 Étudiant en **Génie des Technologies de l'Information** à l'ÉTS (Montréal).
 Passionné par l'architecture système, l'infonuagique (Cloud), l'administration réseau et la cybersécurité.
@@ -25,7 +25,7 @@ Le système est composé de 5 micro-services interconnectés. Voici ma contribut
 ---
 
 ### 📂 Voir le code source
-Le projet est hébergé dans l'organisation **[ProjetImproCUT]**.
+Le projet est hébergé dans l'organisation **ProjetImproCUT**.
 * [🔗 Voir mes contributions](https://github.com/ProjetImproCUT/.github/tree/main/ChristophMoquin)
 
 ---
